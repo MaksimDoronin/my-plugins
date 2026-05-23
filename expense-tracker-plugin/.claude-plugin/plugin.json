@@ -1,0 +1,8 @@
+{
+  "name": "expense-tracker-plugin",
+  "description": "Инструмент для выполнения стандартной работы над проектом",
+  "version": "1.0.0",
+  "author": {
+    "name": "Doronin Maxim"
+  }
+}
