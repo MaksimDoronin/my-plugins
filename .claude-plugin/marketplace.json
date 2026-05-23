@@ -6,14 +6,14 @@
     "metadata": {
       "description": "Инструменты для работы с обучающими платформами",
       "pluginRoot": "./plugins"
-    },
-    "plugins": [
-      {
-        "name": "expense-tracker-plugin",
-        "sourse": "./plugins/expense-tracker-plugin",
-        "description": "Инструмент для выполнения стандартной работы над проектом",
-        "version": "1.0.0"
-      }
-    ]
-  }
+    }
+  },
+  "plugins": [
+    {
+      "name": "expense-tracker-plugin",
+      "source": "./plugins/expense-tracker-plugin",
+      "description": "Инструмент для выполнения стандартной работы над проектом",
+      "version": "1.0.0"
+    }
+  ]
 }
