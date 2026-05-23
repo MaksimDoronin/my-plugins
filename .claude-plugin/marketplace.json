@@ -2,12 +2,12 @@
   "name": "Expense-tracker-marketplace",
   "owner": {
     "name": "Maxim Doronin",
-    "email": "frontdev@maksdoronin.ru",
-    "metadata": {
-      "description": "Инструменты для работы с обучающими платформами",
-      "pluginRoot": "./plugins"
-    }
+    "email": "frontdev@maksdoronin.ru"
   },
+  "metadata": {
+    "description": "Инструменты для работы с обучающими платформами"
+  },
+  "pluginRoot": "./plugins",
   "plugins": [
     {
       "name": "expense-tracker-plugin",
